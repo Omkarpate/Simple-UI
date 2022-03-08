@@ -1,0 +1,26 @@
+body{
+    background-image: url('joingym.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+button{
+    margin-left: 670px;
+    margin-top: 30px;
+    width: 150px;
+    height: 150px;
+    border-radius: 10px;
+    font-weight: bolder;
+    font-size: 60px;
+    background-color: mediumorchid;
+    color: rgb(5, 71, 35);
+}
+footer{
+    text-align: center;
+    margin-left: 80px;
+    margin-top: 400px;
+    font-size: 50px;
+    color: oldlace;
+}
+footer:hover{
+    font-size: 80px;
+}

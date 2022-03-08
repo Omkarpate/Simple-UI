@@ -1,0 +1,23 @@
+input{
+    
+    border-radius: 6px;
+    margin:20px ;
+    color: rgb(161, 0, 0);
+}
+
+input:hover{
+    font-size: 30px;
+}
+div.new{
+    margin-left: 700px;
+}
+body{
+    background-image: url('new.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.reg{
+    border-radius: 6px;
+    color: rgb(190, 23, 241);
+    background-color: mediumaquamarine;
+}

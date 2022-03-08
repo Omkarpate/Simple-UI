@@ -1,0 +1,46 @@
+*{
+    color: rgb(230, 20, 37);
+   
+}
+.para1{
+    border: 3px solid black;
+    border-radius: 6px;
+    text-align: center;
+    width: 200px;
+    margin-left: 600px;
+}
+.para2{
+    border: 3px solid black;
+    border-radius: 6px;
+    text-align: center;
+    width: 200px;
+    margin-left: 300px;
+    margin-top: 100px;
+}
+.para3{
+    border: 3px solid black;
+    border-radius: 6px;
+    text-align: center;
+    width: 200px;
+    margin-left: 950px;
+}
+.para1,.para2,.para3{
+    background-color: palegoldenrod;
+    opacity: 0.5;
+}
+body{
+    background-image: url('choose.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+button{
+    border-radius: 3px;
+    color: rgb(240, 17, 17);
+    font-size: 15px;
+}
+button:hover{
+    font-size: 40px;
+    color: rgb(50, 190, 31);
+    background-color: rgb(14, 13, 13);
+    opacity: 1;
+}

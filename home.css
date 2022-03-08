@@ -1,0 +1,58 @@
+body{
+    background-image: url('peakpx.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+div.one{
+    width: 100%;
+    text-align: center;
+    font-stretch: condensed;
+    font-style: italic;
+
+    font-size: 30px;
+   
+    padding: 0%;
+}
+
+div.ii{
+    font-size: 20px;
+    font-weight: ;
+}
+.container{
+    position:absolute;
+    margin-left:1200px;
+    margin-top: 30px;
+}
+.topnav{
+    color: rgb(234, 235, 240);
+    position: relative;
+    overflow: hidden;
+    background-color: darkgray;
+    opacity: 0.8;
+    border: 2px solid black;
+    border-radius: 20px;
+
+}
+.topnav a{
+    padding:14px 16px;
+    float: right;
+    text-decoration: none;
+    color: darkgreen;
+}
+.topnav a:hover{
+    background-color: darkkhaki;
+    color: rgb(146, 15, 197);
+   
+}
+.footer {
+    position: absolute;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+  opacity: 0.6;
+    color: white;
+    text-align: center;
+ }
+
+
